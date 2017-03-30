@@ -1,7 +1,6 @@
 <h1>Description of pages that I contributed</h1>
-	
-Home
 
+Home
 <br>	-Logo and Company name
 <br>	-Navigation Bar: link to other pages of the site
 <br>	-Sign up and Login 
@@ -16,7 +15,6 @@ Schedule and Registration
 <br>	-Each camp can lead to the registration page (redirect to login page if not logged in)
 <br>	-Registration payment
 <br>	-10% Discount after first registration
-
 
 Forum
 <br>	-Provide a review forum to let users able to share reviews or making suggestions
